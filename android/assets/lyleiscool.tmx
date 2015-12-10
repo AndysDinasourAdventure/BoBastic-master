@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="300" height="40" tilewidth="32" tileheight="32" nextobjectid="227">
+ <tileset firstgid="1" name="spike2" tilewidth="32" tileheight="16" tilecount="1">
+  <image source="spike2.png" trans="fffaf5" width="32" height="16"/>
+ </tileset>
+ <tileset firstgid="2" name="whitemap" tilewidth="32" tileheight="32" tilecount="1">
+  <image source="whitemap.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="3" name="goodmap" tilewidth="32" tileheight="32" tilecount="456">
+  <image source="../../../goodmap.png" width="1218" height="386"/>
+ </tileset>
+ <tileset firstgid="459" name="spike2" tilewidth="32" tileheight="32" tilecount="1">
+  <image source="../../../spike.png" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="460" name="spike1" tilewidth="32" tileheight="32" tilecount="1">
+  <image source="../../../spike1.png" width="32" height="32"/>
+ </tileset>
+ <layer name="Vines" width="300" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztzkENwCAQAEGsUDPgpDUDmkECuc817Uyy/y0FAAAAAAAAAACAiDvQk3IK/N0INFNOgS+quyt7AuBA2/XsCQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHiRBUuJDi0=
+  </data>
+ </layer>
+ <layer name="Ground" width="300" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztmEFu3AAMA4P+/9FFb61OpjJcmo0E9CaQQ1p2iv36urm5+d/mF/Dv5ubm5hNz36ubm5uWue/Vzc1Ny9z36ubm5ubmTZP4e3R/z9439/+Om4a579XNn7nv1U3D0N+rp/tvfQ9+6m8e95vPO4f4Xc71bEmfp773vfp3Uu9r+h5dN33zvUncxdNnm/CldZX345OTeqZpPuV5vLWbnzyJu3j6/BK+tK7yfnxyUs80zac8j7d282TaeJ9O4i6e9pHwpXWV92PLQPG/6cbT7Okev9v7m54lOW/q+FNsLk9Vb+5tGSh+V7ctOdL+ZO+kZvp+6FxtbC5PVW/ubRkofle3LTnS/mTvpGb6fuhcbWwuT1Vv7m0ZKH5Xty050v5k76Rm+n7oXG1sLk9Vb+5tGSh+V7ctOdL+ZO+kZvp+6FxtbC5PVW/ubRkofle3LTnS/mTvpGb6fuhcbWwuT1Vv7m0ZKH5Xty050v5k76Rm+n7oXG1sLk9Vb+5tGSh+V7ctOdL+ZO+kZvp+6FxtbC5PVW/ubRkofle3LTnS/mTvpGb6fuhcbWwuT1Vv7m0ZKH5Xty050v5k76Rm+n7oXG1sLk9Vb+5sGSh+V7ctOdL+ZO+kZvp+6FxtbC5PVW/ubBkofle3LTnS/mTvpGb6fuhcbWwuT1Vv7mwZKH5Xty050v5k76Rm+n7oXG1sLk9Vb+5sGSh+V7ctOdL+ZO+kZvp+6FxtbC5PVW/ubBkofle3LTnS/mTvpGb6fuhcbWwuT1Vv7mwZKH5Xty050v5k76Rm+n7oXG1sLk9Vb+5sGSh+V7ctOdL+ZO+kZvp+6FxtbC5PVW/ubBkofle3LTnS/mTvpGb6fuhcbWwuT1Vv7mwZKH5Xty050v5k76Rm+n7oXG1sLk9Vb+5sGSh+V7ctOdL+ZO+kZvp+6FxtbC5PVW/ubBkofle3LTnS/mTvpGb6fuhcbWwuT1Vv7mwZKH5Xty050v5k76Rm+n7oXG1sLk9Vb+5sGSh+V7ctOdL+ZO+kZvp+6FxtbC5PVW/ubBkofle3LTnS/mTvpGb6fuhcbWwuT1Vv7mwZKH5Xty050v5k76Rm+n7oXG1sLk9Vb+5sGSh+V7ctOdL+ZO+kZvp+6FxtbC5PVW/ubBkofle3LTnS/mTvpGb6fuhcbWwuT1Vv7mwZKH5Xty050v5k76Rm+n7oXG1sLk9Vb+5sGSh+V7ctOdL+ZO+kZvp+/p7fOY88kw==
+  </data>
+ </layer>
+ <layer name="Spikes" width="300" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt2bEJACAMBEDdfzQdykLENIqFhcgd/ASBhycpAQAAAAA/qHnmppJ7AAAAOBc32u2dxpvcHACAV4zfjv8OsBO7QmcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKw2cBRDI
+  </data>
+ </layer>
+ <layer name="Tile Layer 4" width="300" height="40" opacity="0">
+  <data encoding="base64" compression="zlib">
+   eJzt1EENACAQwLAL/kUjAX5koVWw12YAAAAAAAAAAAAAAAAAAADgbL0OALjkV0CFXwEVfgVU+BVQ4VdAhV8BFX4FVPgVUOFXQIVfARV+BVT4FVDhV0CFXwEVfgVU+BVQ4VdAhV8BFX4FVPgVUOFXQIVfARV+BVT4FVDhV0CFX/GzDTjyADc=
+  </data>
+ </layer>
+ <objectgroup name="SpikesObject">
+  <object id="164" x="2401.34" y="126.33" width="92.3576" height="29.0326"/>
+  <object id="188" x="1537.22" y="221.631" width="125.561" height="32.0692"/>
+  <object id="192" x="5539.77" y="226.064" width="122.164" height="30.73"/>
+  <object id="215" x="7009.56" y="318.748" width="150.681" height="28.9771"/>
+  <object id="216" x="8064.33" y="281.078" width="95.6245" height="37.6702"/>
+  <object id="224" x="3106.35" y="130.397" width="55.0565" height="28.9771"/>
+ </objectgroup>
+ <objectgroup name="GroundObject">
+  <object id="137" x="1406.77" y="258.296" width="539.007" height="378.507"/>
+  <object id="138" x="1248.39" y="255.494" width="505.479" height="375.75"/>
+  <object id="163" x="7.09723" y="254.709" width="985.096" height="384.042"/>
+  <object id="167" x="2178.85" y="162.376" width="463.347" height="473.657"/>
+  <object id="169" x="2810.21" y="223.659" width="229.756" height="318.048"/>
+  <object id="170" x="3104.8" y="159.777" width="61.0362" height="436.221"/>
+  <object id="171" x="3235.54" y="351.704" width="381.831" height="258.339"/>
+  <object id="172" x="1654" y="338" width="68"/>
+  <object id="200" x="3717.28" y="351.533" width="1012.22" height="324.109"/>
+  <object id="202" x="4032.9" y="291.698" width="699.907" height="57.3423"/>
+  <object id="203" x="4353.92" y="224.383" width="378.067" height="62.3286"/>
+  <object id="205" x="4899.03" y="386.437" width="314.136" height="359.013"/>
+  <object id="206" x="5315.38" y="256.794" width="917.477" height="319.122"/>
+  <object id="208" x="6337.29" y="153.579" width="217.328" height="1133"/>
+  <object id="209" x="6560.42" y="223.124" width="220.226" height="1046.07"/>
+  <object id="211" x="6783.54" y="283.976" width="217.328" height="991.017"/>
+  <object id="212" x="7006.66" y="353.521" width="220.226" height="930.165"/>
+  <object id="213" x="7232.69" y="353.521" width="504.202" height="924.37"/>
+  <object id="219" x="7878.88" y="2.89771" width="536.076" height="124.602"/>
+  <object id="220" x="7873.08" y="318.748" width="536.076" height="959.142"/>
+  <object id="222" x="8484.5" y="388.293" width="854.825" height="883.802"/>
+ </objectgroup>
+ <objectgroup name="WallObject">
+  <object id="178" x="2179.2" y="190.171" width="28" height="540.147"/>
+  <object id="181" x="3235.83" y="371.135" width="30.9747" height="248"/>
+  <object id="182" x="3109.66" y="254.189" width="20" height="402.082"/>
+  <object id="185" x="2812.21" y="259.119" width="30" height="280.341"/>
+  <object id="190" x="1250.97" y="289.964" width="30.4933" height="798.825"/>
+  <object id="193" x="3714.78" y="391.424" width="29.9177" height="381.451"/>
+  <object id="194" x="4035.09" y="306.354" width="24.9314" height="42.3834"/>
+  <object id="195" x="4355.09" y="243.722" width="27.4246" height="39.8903"/>
+  <object id="198" x="4901.52" y="408.876" width="29.9177" height="416.355"/>
+  <object id="199" x="5315.38" y="271.753" width="29.9177" height="221.89"/>
+  <object id="207" x="6337.29" y="170.965" width="26.0794" height="396.986"/>
+  <object id="217" x="7878.88" y="0" width="26.0794" height="101.42"/>
+  <object id="218" x="7875.98" y="333.237" width="57.9542" height="782.382"/>
+  <object id="221" x="8481.6" y="411.475" width="34.7725" height="866.416"/>
+ </objectgroup>
+ <layer name="Wall" width="300" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt3LENgDAMAMGI/YdmAQpAEejlu95xmnyZtQAAAAAAAPY6/r4AwE3H0iyg4Y9W6SP0vXnHVzNPztEr4I1dvfpyvrIT2EuvgAq9AiqmtEOvoG9KO/QK+qa0Q6+gb0o79Ar6prRDr6BvSjv0CvqmtEOvoG9KO/QK+qa0Q6+gTzuACu0AKvQKqPDXJ1ChV0CFXgEVegVUaBVQoVdAhV4BFXoFVOgVUKFXAAAAAAAAADDTCTnWAIc=
+  </data>
+ </layer>
+ <objectgroup name="VineObject">
+  <object id="226" x="9246.6" y="289.771" width="63.7496" height="57.9542"/>
+ </objectgroup>
+</map>

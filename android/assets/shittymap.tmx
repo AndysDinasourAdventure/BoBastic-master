@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="45" tileheight="45" nextobjectid="3">
+ <tileset firstgid="1" name="shittymap" tilewidth="45" tileheight="45" tilecount="24">
+  <image source="Screen Shot 2015-11-09 at 5.14.26 PM.png" width="403" height="137"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt0cEJADAMA7H02f0X7hIumCDBTXAzAMA2JxQZNxQZfnTxo4sfXfzo4kcXPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIDfHilABIE=
+  </data>
+ </layer>
+ <objectgroup name="GroundObject ">
+  <object id="1" x="180" y="225" width="808" height="358"/>
+  <object id="2" x="811" y="68"/>
+ </objectgroup>
+</map>
